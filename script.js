@@ -1,4 +1,4 @@
 function add(a,b){
-  console.log("Hi");
+  console.log("Hi world");
   return a+b;
 }
